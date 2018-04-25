@@ -4,6 +4,13 @@
   margin: 0;
 }
 
+a {
+  color: #64b5f6;
+}
+a:hover {
+  color:#1e88e5;
+}
+
 body {
   padding-right: 10%;
   padding-left: 10%;
@@ -25,6 +32,7 @@ body {
 }
 .subhead {
   font-size: 20px;
+  background-color: #e3f2fd;
 }
 .section {
   padding-top: 1%;
@@ -51,7 +59,7 @@ body {
   width: 33%;
 }
 .full {
-  border: teal 5px solid;
+  border: #90caf9 5px solid;
   padding: 5% 5% 5% 5%;
 }
 .push {
